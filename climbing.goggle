@@ -5,11 +5,11 @@
 ! avatar: #01b1b2
 
 # Routes etc
-$boost=4,site=27crags.com
-$boost=4,site=bleau.info
+$boost=6,site=27crags.com
+$boost=6,site=bleau.info
 $boost=4,site=mountainproject.com
-$boost=4,site=bettybeta.com
-$boost=4,site=thecrag.com
+$boost=6,site=bettybeta.com
+$boost=6,site=thecrag.com
 $boost=4,site=ukclimbing.com
 # News
 $boost=4,site=rockandice.com
