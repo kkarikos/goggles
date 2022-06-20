@@ -16,6 +16,7 @@ $boost=4,site=rockandice.com
 $boost=4,site=climbing.com
 $boost=4,site=karpollaon8a.com
 $boost=4,site=8a.nu
+$boost=4,site=gripped.com
 # Discussions
 /r/climbing/$boost=4,site=reddit.com
 /r/bouldering/$boost=4,site=reddit.com
